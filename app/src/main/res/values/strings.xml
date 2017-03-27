@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SmsFacebook</string>
+
+    <string name="facebook_app_id">340312196370344</string>
+
+    <string name="account_kit_client_token">f331148a97eaf1a43d9dbcddd5426471</string>
+    <string name="title_activity_result">Result</string>
+
+    <string name="permissions_receive_sms_title">Read SMS Code</string>
+    <string name="permissions_receive_sms_message">
+        Grant permission to read your SMS code from your device to pre-fill.
+    </string>
+    <string name="permissions_read_phone_state_title">Read Phone Number</string>
+    <string name="permissions_read_phone_state_message">
+        Grant permission to read your phone number from your device to pre-fill.
+    </string>
+    <string name="log_in_phone_button">Login</string>
+</resources>
